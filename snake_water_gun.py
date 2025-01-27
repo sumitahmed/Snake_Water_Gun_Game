@@ -50,5 +50,5 @@ def snake_water_game():
         
         print("") #blank line for spacing between rounds
         
-#run teh game
+#run the game
 snake_water_game()
